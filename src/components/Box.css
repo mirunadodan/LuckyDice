@@ -1,0 +1,14 @@
+.Box {
+    width:100px;
+    height:100px;
+    margin: 2rem;
+}
+
+.BoxGrid {
+    display: flex;
+    gap: 1rem;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
